@@ -8,3 +8,9 @@ _Please contact [me](mailto:tejarahul618@gmail.com) for more information._
 
 
 # Example Images of the Cotton Fibers
+<table>
+  <tr>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN2.png" width=250 height=250 ></td>
+    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/blob/main/Images/MaskRCNN3.png" width=250 height=250 ></td>
+  </tr>
+ </table>
