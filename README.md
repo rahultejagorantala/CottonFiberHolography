@@ -31,15 +31,20 @@ The models perform surprisingly well with an average accuracy on test set of aro
   </tr>
  </table>
  
-##  Visualisation of the prediction frame by frame.
+##  Visualisation of the predictions frame by frame.
 
 <tr>
  <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Barplot.png" width=300 height=250 ></td>
 </tr>
 
-## Visualization of Predictions using GRAD-CAM and Guided BackPropagation.
+The model's predictions can be visualized intuitively with the barplot above. All the videos to the left are Class 0 and to the right are Class 1. blues indicate the class 0 predictions and reds indicate class 1 predictions. for a 100% accuracy, all the left bars become blue and all the right bars becomd red.
+
+##  Visualization of Predictions using GRAD-CAM and Guided BackPropagation (Explainability).
 https://github.com/rahultejagorantala/CottonFiberHolography/assets/101026703/86ef630b-c687-4c86-88db-fe84d3a9ad54
 
+Grad-CAM and Guided Backpropagation are used to locate the regions in the image the model is focusing to make the deciscions.
+More about Grad-CAM and Guided Back propagation- https://github.com/jacobgil/pytorch-grad-cam
+We observed that the model focuses on fiber while making the predictions in some cases and some times in the background. Therefore no conclusive opinion was formed.
 
 
 
