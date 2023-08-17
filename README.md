@@ -14,3 +14,4 @@ _Please contact [me](mailto:tejarahul618@gmail.com) for more information._
     <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/GIF's/071522K1-1R8.gif" width=250 height=250 ></td>
   </tr>
  </table>
+Class 0                                Class 1
