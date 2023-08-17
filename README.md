@@ -22,7 +22,9 @@ I have tried different pretrained models to see which one would work better on o
 
 <table>
   <tr>
-    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy-1.jpg" width=250 height=250 ></td>
-    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy.jpg" width=250 height=250 ></td>
+    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy-1.jpg" width=300 height=250 ></td>
+    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy.jpg" width=300 height=250 ></td>
   </tr>
  </table>
+
+ 
