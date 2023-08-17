@@ -30,9 +30,11 @@ The models perform surprisingly well with an average accuracy on test set of aro
     <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy.jpg" width=300 height=250 ></td>
   </tr>
  </table>
- 
+ ## Visualisation of the prediction frame by frame.
+ ![Barplot](https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Barplot.png)
+
  ## Visualization of Predictions using GRAD-CAM and Guided BackPropagation.
-https://github.com/rahultejagorantala/CottonFiberHolography/assets/101026703/931459ef-fe4d-42e4-94a5-30beebf528df.mp4
+https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/092122K1-5R2.mp4
 
 
 
