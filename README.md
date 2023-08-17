@@ -10,7 +10,7 @@ _Please contact [me](mailto:tejarahul618@gmail.com) for more information._
 # Example Holographic Images of the Cotton Fibers
 <table>
   <tr>
-    <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/tree/main/GIF's/052622DAIJA1-6R2.gif" width=250 height=250 ></td>
+    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/GIF's/052622DAIJA1-6R2.gif" width=250 height=250 ></td>
     <td><img src="https://github.com/FeriBolour/holoFiber-segmentation/tree/main/GIF's/072522K1-1R8.gif" width=250 height=250 ></td>
   </tr>
  </table>
