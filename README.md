@@ -14,4 +14,15 @@ _Please contact [me](mailto:tejarahul618@gmail.com) for more information._
     <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/GIF's/071522K1-1R8.gif" width=250 height=250 ></td>
   </tr>
  </table>
-Class 0                                Class 1
+These two Images above belong to cotton fibers with different levels of maturity. But visually they cannot be distinguished.
+This is a Major problem to solve in cotton fiber industry. Correct classification of cotton fibers according to their maturity can repalce the existing techniques which are not reliable and produce inconsistent results.
+
+# Supervised Classification using Transfer Learning.
+I have tried different pretrained models to see which one would work better on our dataset. Overall Efficient-B4 and ResNet-50 work slightly better than other models.(when used a subsampled images of size 240x240 from 1002x1002)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy-1.jpg" width=250 height=250 ></td>
+    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/Models%20Vs%20Accuracy.jpg" width=250 height=250 ></td>
+  </tr>
+ </table>
