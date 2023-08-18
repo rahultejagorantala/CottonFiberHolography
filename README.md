@@ -20,10 +20,8 @@ This is a Major problem to solve in cotton fiber industry. Correct classificatio
 techniques which are not reliable and produce inconsistent results.
 
 # Supervised Classification using Transfer Learning.
-I have tried different pretrained models to see which one would work better on our dataset. Overall Efficient-B4 and ResNet-50 work slightly better than other models.(when used a subsampled images of size 240x240 from 1002x1002)
-<tr>
-    <td><img src="https://github.com/rahultejagorantala/CottonFiberHolography/blob/main/Images/model_structure.jpg" width=150 height=250 ></td>
-</tr>
+We have tried different pretrained models to see which one would work better on our dataset. Overall Efficient-B4 and ResNet-50 work slightly better than other models.(when used a subsampled images of size 240x240 from 1002x1002)
+
 The models perform surprisingly well with an average accuracy on test set of around 80%.
 
 <table>
