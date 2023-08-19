@@ -1,0 +1,9 @@
+batch_size: 32
+num_epochs: 50
+dropout_rate: 0.25
+EPOCHS: 50
+interval: 1 
+generate_data: True
+training_required: True
+working_dir: C:\Users\AVLguest\work\EfficientNet-GRAD-CAM/
+dataset_path: [C:\Users\AVLguest\3089(DAIJA)\3089(DAIJA) , C:\Users\AVLguest\3140(K)\3140(K)]
