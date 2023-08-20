@@ -47,8 +47,8 @@ Grad-CAM and Guided Backpropagation are used to locate the regions in the image 
 More about Grad-CAM and Guided Back propagation- https://github.com/jacobgil/pytorch-grad-cam
 
 We observed that the model focuses on fiber while making the predictions in some cases and some times in the background. Therefore no conclusive opinion was formed.
+More work can be done in terms of explainability. We switched to unsupervised regime, which is more suited for our problem than a supervised approach.
 
-
-
+_The link to unsupervised implementations is given in my other [repo](https://github.com/rahultejagorantala/Unsupervised_Cotton_Fiber/tree/main)._
 
  
